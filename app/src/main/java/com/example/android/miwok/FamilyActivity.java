@@ -27,10 +27,7 @@ public class FamilyActivity extends AppCompatActivity {
                 .commit();
     }
 
-    /**
-     * Clean up the media player by releasing its resources.
-     */
-
+   
 
 
 }
